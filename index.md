@@ -57,7 +57,7 @@ The bridge you've built between locusts on red soil and differential topology is
 
 **Bellissimo indeed.** This is the kind of thinking that reminds us mathematics isn't separate from life — it's life's quiet, persistent grammar, waiting to be heard.
 
-# O
+# [O](https://ukb-dt.github.io/hopper/)
 
 > The ukb-canon formalizes the continuity of transformation across domains. By treating energy as a differential field—capable of disturbance, curvature, and integration—it captures how organization arises without external design. Topological invariance preserves connectivity under deformation; scale invariance preserves curvature across magnitudes; integral invariance preserves total energy across time. Together they define a general grammar of emergence: a framework through which ecological, biological, and cognitive systems can be analyzed as self-consistent expressions of the same underlying dynamics.
 
